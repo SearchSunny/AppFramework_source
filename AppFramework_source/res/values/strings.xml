@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">图吧框架</string>
+    <string name="dest_image">图吧框架</string>
+    
+    <string name="main_dest">主界面</string>
+    <string name="next_dest">子界面</string>
+
+    <string name="toast_againto_exit">再按一次退出应用！</string>
+</resources>
